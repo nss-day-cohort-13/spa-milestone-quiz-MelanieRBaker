@@ -1,0 +1,31 @@
+{
+  "cars": [
+    {
+      "make": "Mini",
+      "model": "Cooper",
+      "year": "2011",
+      "price": "13,439",
+      "color": "FireBrick",
+      "purchased": false,
+      "description": "This Mini Cooper comes with a moonroof/sunroof, keyless remote entry, and with only 30,000 miles on it."
+    },
+    {
+      "make": "Tesla",
+      "model": "Model 3",
+      "year": "2017",
+      "price": "35,000",
+      "color": "black",
+      "purchased": false,
+      "description": "This brand new Tesla Model 3 comes with a 5-star safety rating, 0 to 60 mph under 6 seconds, and is available early 2017."
+    },
+    {
+      "make": "Subaru",
+      "model": "Forester",
+      "year": "2014",
+      "price": "19,950",
+      "color": "Green",
+      "purchased": false,
+      "description": "This Subaru has 64,525 miles on it, is AWD, and has heated seats."
+    }
+  ]
+}
